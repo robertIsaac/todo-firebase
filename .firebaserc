@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "nestjs-20698": {
+      "hosting": {
+        "todo-firebase": [
+          "nestjs-20698"
+        ]
+      }
+    }
+  }
+}
